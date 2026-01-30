@@ -1,6 +1,6 @@
 # Privacy Policy for JobCapture
 
-**Last Updated:** January 29, 2026
+**Last Updated:** January 30, 2026
 
 ## Overview
 
