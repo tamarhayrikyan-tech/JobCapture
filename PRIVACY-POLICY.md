@@ -88,28 +88,12 @@ JobCapture requests the following Chrome permissions:
 
 **What it doesn't do:** Does not send data to external servers
 
-### tabs
-**Why:** To open job posting links in new tabs from your tracker
-
-**What it does:** Allows clicking job titles to open the original posting
-
-**What it doesn't do:** Does not allow reading tab content or tracking your browsing
-
 ### scripting
 **Why:** To extract job details from web pages
 
 **What it does:** Runs code on the current page to find job information
 
 **What it doesn't do:** Does not run automatically in background; only runs when you click "Capture"
-
-### Host Permission (<all_urls>)
-**Why:** Job postings appear on countless websites (LinkedIn, Indeed, company career sites, etc.)
-
-**What it does:** Allows the extension to work on any website where you find a job posting
-
-**What it doesn't do:** Does not automatically run on all sites; only activates when you click the extension icon
-
-**Note:** The extension only reads the current page when you explicitly click "Capture"—it does not monitor your browsing.
 
 ## Data Security
 
